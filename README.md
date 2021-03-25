@@ -57,7 +57,7 @@ Lista de Arquivos:
 
 [Decision_Tree_03](https://github.com/solenya1/MachineLearning-Files/blob/master/Notebooks/Decision_Tree_03.ipynb)
 
-[Hot-Encoding::Tutorial](https://github.com/solenya1/MachineLearning-Files/blob/master/Notebooks/Encoding.ipynb)
+[Hot-Encoding](https://github.com/solenya1/MachineLearning-Files/blob/master/Notebooks/Encoding.ipynb)
 
 ## Exercícios :wrench:
 
